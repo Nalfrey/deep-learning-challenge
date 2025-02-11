@@ -14,8 +14,11 @@ What variable(s) should be removed from the input data because they are neither 
 
 **Compiling, Training, and Evaluating the Model**
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take in your attempts to increase model performance
+How many neurons, layers, and activation functions did you select for your neural network model, and why? I honestly could not get this portion of my code to work. I thought I had the code wrong, continued to edit, but had spent many iterations trying to get it to work with iterations I had. 
+
+Were you able to achieve the target model performance? No, because I couldn't get the model to work as intended. 
+
+What steps did you take in your attempts to increase model performance? I took multiple steps, multiple changes but ultimately to increase you would add layers from 2, to 4, to 6, to 8 etc etc and change the neurons from a small number such as 10 or 20 and increase to 200 or 500. 
 
 **sUMMARY**
+In summary, neural networks are difficult, and I couldn't get this model to work as I had intended without my computer RAM running out. 
